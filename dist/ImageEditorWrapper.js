@@ -21,7 +21,7 @@ require("./assets/fonts/filerobot-font.css");
 
 var _en = _interopRequireDefault(require("./assets/i18n/en"));
 
-var _fr = _interopRequireDefault(require("./assets/i18n/fr"));
+var _vi = _interopRequireDefault(require("./assets/i18n/vi"));
 
 var _dark = _interopRequireDefault(require("./assets/theme/dark"));
 
@@ -110,7 +110,7 @@ function (_Component) {
       isVisible: show,
       src: _src,
       config: _this.processConfig(_config),
-      t: _objectSpread({}, _config.language === 'en' ? _en.default : _fr.default, {}, _config.translations[_config.language]),
+      t: _objectSpread({}, _config.language === 'en' ? _en.default : _vi.default, {}, _config.translations[_config.language]),
       colorScheme: _config.colorScheme || 'dark',
       theme: {
         colors: _objectSpread({}, (_config.colorScheme === 'light' ? _light.default : _dark.default).colors, {}, _config.theme.colors),

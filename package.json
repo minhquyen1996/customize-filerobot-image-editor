@@ -1,16 +1,16 @@
 {
-  "_from": "filerobot-image-editor",
-  "_id": "filerobot-image-editor@3.3.0",
+  "_from": "customize-image-editor",
+  "_id": "customize-image-editor@3.3.0",
   "_inBundle": false,
-  "_integrity": "sha512-9S9qtEljl0cbRMhJdzvA9n4Oda4UAik5qI9HV+jXIcI9KjioV6Zkannn9qegcgVbYrtqjTWndt/5uC0np2d66g==",
-  "_location": "/filerobot-image-editor",
+  "_integrity": "sha512-aa1o4R6Z7h93kF98J402Fx3VwzOXp+astn9IDNMnHtXg/CcYfLf1Jccub12Bfa7P1id4F+bLM8o2+R1m++ooXQ==",
+  "_location": "/customize-image-editor",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "filerobot-image-editor",
-    "name": "filerobot-image-editor",
-    "escapedName": "filerobot-image-editor",
+    "raw": "customize-image-editor",
+    "name": "customize-image-editor",
+    "escapedName": "customize-image-editor",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,9 +19,9 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/filerobot-image-editor/-/filerobot-image-editor-3.3.0.tgz",
-  "_shasum": "479d00728c0cd69c1c24d6a3ba15a611687230e3",
-  "_spec": "filerobot-image-editor",
+  "_resolved": "https://registry.npmjs.org/customize-image-editor/-/customize-image-editor-3.3.0.tgz",
+  "_shasum": "8ff2f148c6b1a4b13ce3e7b5e6df5afd6f876c59",
+  "_spec": "customize-image-editor",
   "_where": "C:\\Quyen\\ReactJS NS6\\PROJECT\\dcm-fe",
   "author": {
     "name": "scaleflex"
@@ -85,7 +85,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/minhquyen1996/customize-filerobot-image-editor"
+    "url": "git+https://github.com/minhquyen1996/customize-filerobot-image-editor.git"
   },
   "scripts": {
     "build": "npm run clean-build && npm run build-new && npm run build-latest",

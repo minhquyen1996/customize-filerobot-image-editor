@@ -5,8 +5,8 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 var _default = {
-  'header.image_editor_title': 'Filerobot Image Editor',
-  'toolbar.download': 'Download',
+  'header.image_editor_title': 'Image Editor',
+  'toolbar.download': 'Use',
   'toolbar.save': 'Save',
   'toolbar.apply': 'Apply',
   'toolbar.cancel': 'Cancel',
