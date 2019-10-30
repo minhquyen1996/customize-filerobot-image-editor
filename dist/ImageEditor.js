@@ -238,14 +238,12 @@ function (_Component) {
           initialZoom = _this$state3.initialZoom;
       var canvasID = initialZoom !== 1 ? 'scaleflex-image-edit-box-original' : 'scaleflex-image-edit-box';
       var canvas = (0, _global.getCanvasNode)(canvasID);
-	    downloadImage(function () {
-		    _this.props.onComplete({
-			    status: 'success',
-			    canvas: canvas
-		    });
-
-		    _this.props.onClose();
+	    _this.props.onComplete({
+		    status: 'success',
+		    canvas: canvas
 	    });
+
+	    _this.props.onClose();
     });
 
     _defineProperty(_assertThisInitialized(_this), "onApplyEffects", function (name) {
