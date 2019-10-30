@@ -1,20 +1,35 @@
 {
-  "name": "customize-image-editor",
-  "version": "3.3.0",
-  "main": "dist/index.js",
-  "description": "Edit, resize, and filter any image!",
-  "author": "minhquyen1996",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/minhquyen1996/customize-filerobot-image-editor"
+  "_from": "filerobot-image-editor",
+  "_id": "filerobot-image-editor@3.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-9S9qtEljl0cbRMhJdzvA9n4Oda4UAik5qI9HV+jXIcI9KjioV6Zkannn9qegcgVbYrtqjTWndt/5uC0np2d66g==",
+  "_location": "/filerobot-image-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "filerobot-image-editor",
+    "name": "filerobot-image-editor",
+    "escapedName": "filerobot-image-editor",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
-  "homepage": "https://github.com/minhquyen1996/customize-filerobot-image-editor",
-  "keywords": [
-    "image editor",
-    "crop",
-    "resize"
+  "_requiredBy": [
+    "#USER",
+    "/"
   ],
+  "_resolved": "https://registry.npmjs.org/filerobot-image-editor/-/filerobot-image-editor-3.3.0.tgz",
+  "_shasum": "479d00728c0cd69c1c24d6a3ba15a611687230e3",
+  "_spec": "filerobot-image-editor",
+  "_where": "C:\\Quyen\\ReactJS NS6\\PROJECT\\dcm-fe",
+  "author": {
+    "name": "scaleflex"
+  },
+  "bugs": {
+    "url": "https://github.com/scaleflex/filerobot-image-editor/issues"
+  },
+  "bundleDependencies": false,
   "dependencies": {
     "cropperjs": "^1.5.5",
     "image-type": "^4.1.0",
@@ -25,6 +40,8 @@
     "throttle-debounce": "^2.1.0",
     "uuid": "^3.3.3"
   },
+  "deprecated": false,
+  "description": "Edit, resize, and filter any image!",
   "devDependencies": {
     "@babel/cli": "^7.6.2",
     "@babel/core": "^7.6.2",
@@ -53,25 +70,39 @@
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.2"
   },
+  "homepage": "https://github.com/scaleflex/filerobot-image-editor#readme",
+  "keywords": [
+    "image editor",
+    "crop",
+    "resize"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "customize-image-editor",
   "peerDependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhquyen1996/customize-filerobot-image-editor"
+  },
   "scripts": {
-    "start-demo-js": "webpack-dev-server --mode development --config config/webpack.demo-js-config.js",
-    "start-demo-react": "webpack-dev-server --mode development --config config/webpack.demo-react-config.js",
-    "clean-demo-js": "rm -rf examples/js/dist",
+    "build": "npm run clean-build && npm run build-new && npm run build-latest",
     "build-demo-js": "npm run clean-demo-js && webpack --mode production --config config/webpack.demo-js-config.js",
     "build-demo-js-latest": "npm run clean-demo-js && webpack --mode production --config config/webpack.demo-js-config.js",
-    "clean-demo-react": "rm -rf examples/react/dist",
     "build-demo-react": "npm run clean-demo-react && webpack --mode production --config config/webpack.demo-react-config.js",
-    "clean-build": "rm -rf build",
-    "build-new": "webpack --mode production --config config/webpack.js-config.js",
     "build-latest": "webpack --mode production --config config/webpack.js-config.js --env.latest",
-    "build": "npm run clean-build && npm run build-new && npm run build-latest",
+    "build-new": "webpack --mode production --config config/webpack.js-config.js",
+    "clean-build": "rm -rf build",
+    "clean-demo-js": "rm -rf examples/js/dist",
+    "clean-demo-react": "rm -rf examples/react/dist",
     "clean-dist": "rm -rf dist",
-    "dist": "npm run clean-dist && npx babel projects/react --out-dir dist --copy-files",
     "deploy": "gh-pages -d examples/js/dist",
-    "publish-demo": "npm run build-demo-js && npm run deploy"
-  }
+    "dist": "npm run clean-dist && npx babel projects/react --out-dir dist --copy-files",
+    "publish-demo": "npm run build-demo-js && npm run deploy",
+    "start-demo-js": "webpack-dev-server --mode development --config config/webpack.demo-js-config.js",
+    "start-demo-react": "webpack-dev-server --mode development --config config/webpack.demo-react-config.js"
+  },
+  "version": "3.3.0"
 }

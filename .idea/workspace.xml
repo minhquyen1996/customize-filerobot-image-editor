@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cecd1e3-d688-4dc1-b8e4-d2202cfab225" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/3.3.0/customize-filerobot-image-editor.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/3/customize-filerobot-image-editor.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/webpack.demo-js-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/webpack.demo-react-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/webpack.js-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js-light-example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js-with-cloudimage/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js-with-filerobot/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js/src/assets/fonts/helvetica-neue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js/src/assets/images/copy-content.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js/src/filerobot-init-example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/js/src/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/react/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/ImageEditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/ImageEditorWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/assets/fonts/filerobot-font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/assets/i18n/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/assets/i18n/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/assets/styles/colorScheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/assets/templates/cropPresets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/assets/templates/resizePresets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/assets/theme/dark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/assets/theme/light.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/CloseBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Footer/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/PreResize/PreResize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Preview/ImageManipulator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Preview/Preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Adjust.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Crop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Effect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Effects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Filters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Orientation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Tool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Toolbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/Toolbar/Watermark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/analyze.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/autoload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/blander.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/calculate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/convert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/io.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/logger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/pixel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/core/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/lib/blenders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/lib/filters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/lib/size.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/_other/clarity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/_other/concentrate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/_other/hemingway.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/_other/herMajesty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/_other/nostalgia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/_presets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/camera.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/common/blur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/common/posterize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/common/vignette.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/dither.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/effects/compoundBlur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/effects/edges.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/effects/grungy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/effects/hazyDays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/effects/lomo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/effects/sinCity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/filters/crossProcess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/filters/glowingSun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/filters/jarques.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/filters/love.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/filters/oldBoot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/filters/orangePeel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/filters/pinhole.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/filters/sunrise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/filters/vintage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/flip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/rectangularVignette.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/rotate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/stackBlur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/lib/caman/plugins/threshold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Adjust.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/CloseBtn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Common.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Crop.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Footer.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Header.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/ImageEditor.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Orientation.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Preview.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Resize.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Spinner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Toolbar.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/Watermark.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/styledComponents/styleUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/utils/effects.utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/utils/global.utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/react/utils/watermark.utils.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/ImageEditor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="245" lean-forward="true" selection-start-line="245" selection-end-line="245" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dist/ImageEditor.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/customize-image-editor.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="211" />
+    <option name="y" value="62" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="customize-image-editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customize-image-editor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customize-image-editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customize-image-editor" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customize-image-editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customize-image-editor" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cecd1e3-d688-4dc1-b8e4-d2202cfab225" name="Default Changelist" comment="" />
+      <created>1572403458737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572403458737</updated>
+      <workItem from="1572403459876" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/ImageEditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="245" lean-forward="true" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
