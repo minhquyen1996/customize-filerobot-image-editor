@@ -1,8 +1,8 @@
 {
   "_from": "customize-image-editor",
-  "_id": "customize-image-editor@3.3.0",
+  "_id": "customize-image-editor@0.0.1",
   "_inBundle": false,
-  "_integrity": "sha512-aa1o4R6Z7h93kF98J402Fx3VwzOXp+astn9IDNMnHtXg/CcYfLf1Jccub12Bfa7P1id4F+bLM8o2+R1m++ooXQ==",
+  "_integrity": "sha512-rxy8pN3yaN4rCNqDceeUvzwSexIuArZLtCwCGKLnntiimCB7Ng7OR6k+V4GpnidMg4qw2QCujbe9R615NxsU9A==",
   "_location": "/customize-image-editor",
   "_phantomChildren": {},
   "_requested": {
@@ -19,8 +19,8 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/customize-image-editor/-/customize-image-editor-3.3.0.tgz",
-  "_shasum": "8ff2f148c6b1a4b13ce3e7b5e6df5afd6f876c59",
+  "_resolved": "https://registry.npmjs.org/customize-image-editor/-/customize-image-editor-0.0.1.tgz",
+  "_shasum": "57a0e5d5a3198873d9600564dafa9c81cd69bc60",
   "_spec": "customize-image-editor",
   "_where": "C:\\Quyen\\ReactJS NS6\\PROJECT\\dcm-fe",
   "author": {
@@ -104,5 +104,5 @@
     "start-demo-js": "webpack-dev-server --mode development --config config/webpack.demo-js-config.js",
     "start-demo-react": "webpack-dev-server --mode development --config config/webpack.demo-react-config.js"
   },
-  "version": "3.3.0"
+  "version": "0.0.2"
 }
